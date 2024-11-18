@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+ 
+}
+.icon-hover:hover {
+  color: #cad3dd; 
+  cursor: pointer;
+  transition: color 0.3s ease;
+  background-color: gray;
+}
+.icon:hover{
+  color: black;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  background-color: white;
+}
